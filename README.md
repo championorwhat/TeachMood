@@ -16,10 +16,11 @@ This project is a complete **Facial Emotion Detection System**, which includes:
 ## Tech Stack
 ### **Frontend**
 - React.js
+- Tailwind CSS
 - HTML, CSS, JavaScript
 
 ### **Backend**
-- Django (REST Framework)
+- Express.js
 - TensorFlow/Keras
 - OpenCV
 
