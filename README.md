@@ -1,4 +1,4 @@
-# Facial Emotion Detection
+# TeachMood
 
 This project is a complete **Facial Emotion Detection System**, which includes:
 - **Frontend**: A web-based user interface for interacting with the model.
